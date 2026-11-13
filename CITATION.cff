@@ -1,0 +1,9 @@
+```yaml
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the associated paper (currently submitted for publication)."
+authors:
+  - family-names: "林"
+    given-names: "彤昕"
+title: "Supplementary Code for: 十二音声乐作品表演中的声调参照与钢琴声学反馈——以罗忠镕《往事二三》的量化分析为例"
+year: 2026
+status: submitted
